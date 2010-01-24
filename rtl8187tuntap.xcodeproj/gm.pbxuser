@@ -1,0 +1,724 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 87320F601106BD1400F1CD07 /* rtl8187tuntap */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* rtl8187tuntap */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* rtl8187tuntap */,
+		);
+		codeSenseManager = 87320F6A1106BD1700F1CD07 /* Code sense */;
+		executables = (
+			87320F601106BD1400F1CD07 /* rtl8187tuntap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					849,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					470,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285859999;
+			PBXWorkspaceStateSaveDate = 285859999;
+		};
+		perUserProjectItems = {
+			872FADB7110AE4700007394C /* PBXBookmark */ = 872FADB7110AE4700007394C /* PBXBookmark */;
+			872FADBE110AE4920007394C /* PBXTextBookmark */ = 872FADBE110AE4920007394C /* PBXTextBookmark */;
+			872FADBF110AE4920007394C /* PBXTextBookmark */ = 872FADBF110AE4920007394C /* PBXTextBookmark */;
+			872FADC0110AE4920007394C /* PBXTextBookmark */ = 872FADC0110AE4920007394C /* PBXTextBookmark */;
+			872FADC2110AE4920007394C /* PBXTextBookmark */ = 872FADC2110AE4920007394C /* PBXTextBookmark */;
+			872FADC3110AE4920007394C /* PBXTextBookmark */ = 872FADC3110AE4920007394C /* PBXTextBookmark */;
+			872FADC4110AE4920007394C /* PBXTextBookmark */ = 872FADC4110AE4920007394C /* PBXTextBookmark */;
+			872FADC5110AE4920007394C /* PBXTextBookmark */ = 872FADC5110AE4920007394C /* PBXTextBookmark */;
+			872FADCA110AE4920007394C /* PBXTextBookmark */ = 872FADCA110AE4920007394C /* PBXTextBookmark */;
+			872FADCD110AE4A90007394C /* PBXTextBookmark */ = 872FADCD110AE4A90007394C /* PBXTextBookmark */;
+			872FADCE110AE4A90007394C /* XCBuildMessageTextBookmark */ = 872FADCE110AE4A90007394C /* XCBuildMessageTextBookmark */;
+			872FADCF110AE4A90007394C /* PBXTextBookmark */ = 872FADCF110AE4A90007394C /* PBXTextBookmark */;
+			872FADD0110AE4AA0007394C /* PBXTextBookmark */ = 872FADD0110AE4AA0007394C /* PBXTextBookmark */;
+			872FADD1110AE4AA0007394C /* XCBuildMessageTextBookmark */ = 872FADD1110AE4AA0007394C /* XCBuildMessageTextBookmark */;
+			872FADD2110AE4AA0007394C /* PBXTextBookmark */ = 872FADD2110AE4AA0007394C /* PBXTextBookmark */;
+			872FADD3110AE4AA0007394C /* PBXTextBookmark */ = 872FADD3110AE4AA0007394C /* PBXTextBookmark */;
+			879895DE1107F19F000E1AA6 = 879895DE1107F19F000E1AA6 /* PBXTextBookmark */;
+			879895DF1107F19F000E1AA6 = 879895DF1107F19F000E1AA6 /* PBXTextBookmark */;
+			879895E11107F19F000E1AA6 = 879895E11107F19F000E1AA6 /* PBXTextBookmark */;
+			879895E21107F19F000E1AA6 = 879895E21107F19F000E1AA6 /* PBXTextBookmark */;
+			879896471107FF28000E1AA6 = 879896471107FF28000E1AA6 /* PBXTextBookmark */;
+			87989667110803DE000E1AA6 = 87989667110803DE000E1AA6 /* PBXTextBookmark */;
+			87989668110803DE000E1AA6 = 87989668110803DE000E1AA6 /* PBXTextBookmark */;
+			87989673110811B9000E1AA6 = 87989673110811B9000E1AA6 /* PBXTextBookmark */;
+			8798967B110814EA000E1AA6 = 8798967B110814EA000E1AA6 /* PBXTextBookmark */;
+			879896C611081A8F000E1AA6 = 879896C611081A8F000E1AA6 /* PBXTextBookmark */;
+			879F646611081EE6009B6D92 = 879F646611081EE6009B6D92 /* PBXTextBookmark */;
+			879F649C1108299A009B6D92 = 879F649C1108299A009B6D92 /* PBXTextBookmark */;
+			879F65CF11082FD6009B6D92 = 879F65CF11082FD6009B6D92 /* PBXTextBookmark */;
+			879F65D811083183009B6D92 = 879F65D811083183009B6D92 /* PBXTextBookmark */;
+			879F65D911083183009B6D92 = 879F65D911083183009B6D92 /* PBXTextBookmark */;
+			879F65DA11083183009B6D92 = 879F65DA11083183009B6D92 /* PBXTextBookmark */;
+			879F65DB11083183009B6D92 = 879F65DB11083183009B6D92 /* PBXTextBookmark */;
+			879F65DD11083183009B6D92 = 879F65DD11083183009B6D92 /* PBXTextBookmark */;
+			879F65EB1109B9C2009B6D92 = 879F65EB1109B9C2009B6D92 /* PBXTextBookmark */;
+			87C2CD421106EA40009E343A = 87C2CD421106EA40009E343A /* PBXTextBookmark */;
+			87C2CD441106EA40009E343A = 87C2CD441106EA40009E343A /* PBXTextBookmark */;
+			87C2CD601106EB46009E343A = 87C2CD601106EB46009E343A /* PBXTextBookmark */;
+			87C2CD811106F050009E343A = 87C2CD811106F050009E343A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 87320F691106BD1700F1CD07 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 1950}}";
+			sepNavSelRange = "{2017, 151}";
+			sepNavVisRange = "{0, 984}";
+			sepNavWindowFrame = "{{2026, -299}, {1277, 1191}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* rtl8187tuntap_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 507}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 168}";
+		};
+	};
+	872FADB7110AE4700007394C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+	};
+	872FADBE110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F7A1106BD5700F1CD07 /* rtl8187.mm */;
+		name = "rtl8187.mm: 9";
+		rLen = 0;
+		rLoc = 96;
+		rType = 0;
+		vrLen = 1527;
+		vrLoc = 11554;
+	};
+	872FADBF110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+		name = "rtl8187tuntap.mm: 118";
+		rLen = 151;
+		rLoc = 2017;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 1668;
+	};
+	872FADC0110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 872FADC1110AE4920007394C /* btscan_ui.cc */;
+		name = "btscan_ui.cc: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 21271;
+	};
+	872FADC1110AE4920007394C /* btscan_ui.cc */ = {
+		isa = PBXFileReference;
+		name = btscan_ui.cc;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/plugin-btscan/btscan_ui.cc";
+		sourceTree = "<absolute>";
+	};
+	872FADC2110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* rtl8187tuntap_Prefix.pch */;
+		name = "rtl8187tuntap_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 0;
+	};
+	872FADC3110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C811082B27009B6D92 /* namedpipe.h */;
+		name = "namedpipe.h: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	872FADC4110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C911082B27009B6D92 /* namedpipe.mm */;
+		name = "namedpipe.mm: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	872FADC5110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C911082B27009B6D92 /* namedpipe.mm */;
+		name = "namedpipe.mm: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	872FADCA110AE4920007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+		name = "rtl8187tuntap.mm: 118";
+		rLen = 151;
+		rLoc = 2017;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	872FADCD110AE4A90007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320FA01106BDD700F1CD07 /* structs.h */;
+		name = "structs.h: 80";
+		rLen = 0;
+		rLoc = 3029;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 2339;
+	};
+	872FADCE110AE4A90007394C /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "80211b.h: No such file or directory";
+		fRef = 87320F831106BD7D00F1CD07 /* USBJack.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 29;
+		rType = 1;
+	};
+	872FADCF110AE4A90007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F831106BD7D00F1CD07 /* USBJack.h */;
+		name = "USBJack.h: 30";
+		rLen = 0;
+		rLoc = 1020;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 0;
+	};
+	872FADD0110AE4AA0007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C911082B27009B6D92 /* namedpipe.mm */;
+		name = "namedpipe.mm: 19";
+		rLen = 0;
+		rLoc = 408;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	872FADD1110AE4AA0007394C /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "80211b.h: No such file or directory";
+		fRef = 87320F831106BD7D00F1CD07 /* USBJack.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 29;
+		rType = 1;
+	};
+	872FADD2110AE4AA0007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F831106BD7D00F1CD07 /* USBJack.h */;
+		name = "USBJack.h: 30";
+		rLen = 0;
+		rLoc = 1020;
+		rType = 0;
+		vrLen = 1235;
+		vrLoc = 0;
+	};
+	872FADD3110AE4AA0007394C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+		name = "rtl8187tuntap.mm: 118";
+		rLen = 151;
+		rLoc = 2017;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 0;
+	};
+	87320F601106BD1400F1CD07 /* rtl8187tuntap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = rtl8187tuntap;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	87320F691106BD1700F1CD07 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	87320F6A1106BD1700F1CD07 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	87320F781106BD5700F1CD07 /* rtl818x.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 2665}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1250}";
+		};
+	};
+	87320F791106BD5700F1CD07 /* rtl8187.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 1976}}";
+			sepNavSelRange = "{2856, 0}";
+			sepNavVisRange = "{570, 856}";
+			sepNavWindowFrame = "{{15, 32}, {1197, 841}}";
+		};
+	};
+	87320F7A1106BD5700F1CD07 /* rtl8187.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 20644}}";
+			sepNavSelRange = "{96, 0}";
+			sepNavVisRange = "{11554, 1527}";
+			sepNavWindowFrame = "{{580, -121}, {1197, 841}}";
+		};
+	};
+	87320F831106BD7D00F1CD07 /* USBJack.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = USBJack.h;
+		path = "/Users/gm/dev/kismac-kismet/rtl8187tuntap/USBJack.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 2171}}";
+			sepNavSelRange = "{1020, 0}";
+			sepNavVisRange = "{3787, 1303}";
+		};
+	};
+	87320F8B1106BD9600F1CD07 /* 80211b.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = 80211b.h;
+		path = "/Users/gm/dev/kismac-kismet/rtl8187tuntap/80211b.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 3185}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{8640, 1795}";
+			sepNavWindowFrame = "{{1832, -294}, {1277, 1191}}";
+		};
+	};
+	87320F8C1106BD9600F1CD07 /* KisMAC80211.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1138, 2756}}";
+			sepNavSelRange = "{395, 4}";
+			sepNavVisRange = "{2359, 1170}";
+			sepNavWindowFrame = "{{64, 12}, {1197, 841}}";
+		};
+	};
+	87320FA01106BDD700F1CD07 /* structs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {725, 2626}}";
+			sepNavSelRange = "{3029, 0}";
+			sepNavVisRange = "{2339, 1122}";
+		};
+	};
+	87320FAA1106BE0F00F1CD07 /* eeprom_93cx6.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1177}";
+			sepNavWindowFrame = "{{15, 32}, {1197, 841}}";
+		};
+	};
+	87320FBC1106BEDB00F1CD07 /* usbjack.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 2197}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1209}";
+		};
+	};
+	87320FBD1106BEDB00F1CD07 /* usbjack.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2154, 10387}}";
+			sepNavSelRange = "{73, 0}";
+			sepNavVisRange = "{14, 1409}";
+			sepNavWindowFrame = "{{243, 37}, {1197, 841}}";
+		};
+	};
+	879895DE1107F19F000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320FA01106BDD700F1CD07 /* structs.h */;
+		name = "structs.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1510;
+		vrLoc = 0;
+	};
+	879895DF1107F19F000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F781106BD5700F1CD07 /* rtl818x.h */;
+		name = "rtl818x.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	879895E11107F19F000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320FBC1106BEDB00F1CD07 /* usbjack.h */;
+		name = "usbjack.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 0;
+	};
+	879895E21107F19F000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* rtl8187tuntap_Prefix.pch */;
+		name = "rtl8187tuntap_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 168;
+		vrLoc = 0;
+	};
+	879895F01107F1F8000E1AA6 /* main.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = "/Users/gm/dev/kismac-kismet/trunk/main.m";
+		sourceTree = "<absolute>";
+	};
+	879896471107FF28000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879895F01107F1F8000E1AA6 /* main.m */;
+		name = "main.m: 1";
+		rLen = 133;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 245;
+		vrLoc = 0;
+	};
+	87989667110803DE000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320FAA1106BE0F00F1CD07 /* eeprom_93cx6.h */;
+		name = "eeprom_93cx6.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 0;
+	};
+	87989668110803DE000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F791106BD5700F1CD07 /* rtl8187.h */;
+		name = "rtl8187.h: 117";
+		rLen = 0;
+		rLoc = 2856;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 570;
+	};
+	87989673110811B9000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F8B1106BD9600F1CD07 /* 80211b.h */;
+		name = "80211b.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2374;
+		vrLoc = 5961;
+	};
+	8798967B110814EA000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F8C1106BD9600F1CD07 /* KisMAC80211.h */;
+		name = "KisMAC80211.h: 14";
+		rLen = 254;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 743;
+		vrLoc = 0;
+	};
+	879896C611081A8F000E1AA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879896C711081A8F000E1AA6 /* local_ieee80211_radiotap.h */;
+		name = "local_ieee80211_radiotap.h: 223";
+		rLen = 0;
+		rLoc = 8706;
+		rType = 0;
+		vrLen = 1814;
+		vrLoc = 0;
+	};
+	879896C711081A8F000E1AA6 /* local_ieee80211_radiotap.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = local_ieee80211_radiotap.h;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/local_ieee80211_radiotap.h";
+		sourceTree = "<absolute>";
+	};
+	8798975011081DD3000E1AA6 /* osx_ieee80211_radiotap.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = osx_ieee80211_radiotap.h;
+		path = "/Users/gm/dev/kismet-stable/trunk/osx_ieee80211_radiotap.h";
+		sourceTree = "<absolute>";
+	};
+	879F646611081EE6009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8798975011081DD3000E1AA6 /* osx_ieee80211_radiotap.h */;
+		name = "osx_ieee80211_radiotap.h: 234";
+		rLen = 112;
+		rLoc = 8892;
+		rType = 0;
+		vrLen = 1384;
+		vrLoc = 7657;
+	};
+	879F646A11081EE6009B6D92 /* dumpfile_pcap.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = dumpfile_pcap.cc;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/dumpfile_pcap.cc";
+		sourceTree = "<absolute>";
+	};
+	879F649C1108299A009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F646A11081EE6009B6D92 /* dumpfile_pcap.cc */;
+		name = "dumpfile_pcap.cc: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1150;
+		vrLoc = 0;
+	};
+	879F64C811082B27009B6D92 /* namedpipe.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 507}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	879F64C911082B27009B6D92 /* namedpipe.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1027, 507}}";
+			sepNavSelRange = "{408, 0}";
+			sepNavVisRange = "{0, 662}";
+		};
+	};
+	879F65CF11082FD6009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C811082B27009B6D92 /* namedpipe.h */;
+		name = "namedpipe.h: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	879F65D811083183009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320FBD1106BEDB00F1CD07 /* usbjack.mm */;
+		name = "usbjack.mm: 5";
+		rLen = 0;
+		rLoc = 73;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 14;
+	};
+	879F65D911083183009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* rtl8187tuntap.1 */;
+		name = "rtl8187tuntap.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1616;
+		vrLoc = 0;
+	};
+	879F65DA11083183009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F7A1106BD5700F1CD07 /* rtl8187.mm */;
+		name = "rtl8187.mm: 9";
+		rLen = 0;
+		rLoc = 96;
+		rType = 0;
+		vrLen = 1102;
+		vrLoc = 68;
+	};
+	879F65DB11083183009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 879F64C911082B27009B6D92 /* namedpipe.mm */;
+		name = "namedpipe.mm: 6";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	879F65DD11083183009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+		name = "rtl8187tuntap.mm: 13";
+		rLen = 0;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 1045;
+		vrLoc = 0;
+	};
+	879F65EB1109B9C2009B6D92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* rtl8187tuntap.mm */;
+		name = "rtl8187tuntap.mm: 13";
+		rLen = 0;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 0;
+	};
+	87C2CD421106EA40009E343A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C2CD431106EA40009E343A /* packetsource_pcap.cc */;
+		name = "packetsource_pcap.cc: 1148";
+		rLen = 0;
+		rLoc = 35487;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 34449;
+	};
+	87C2CD431106EA40009E343A /* packetsource_pcap.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = packetsource_pcap.cc;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/packetsource_pcap.cc";
+		sourceTree = "<absolute>";
+	};
+	87C2CD441106EA40009E343A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C2CD451106EA40009E343A /* packetsource_bsdrt.cc */;
+		name = "packetsource_bsdrt.cc: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 0;
+	};
+	87C2CD451106EA40009E343A /* packetsource_bsdrt.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = packetsource_bsdrt.cc;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/packetsource_bsdrt.cc";
+		sourceTree = "<absolute>";
+	};
+	87C2CD491106EA40009E343A /* packetsource_darwin.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = packetsource_darwin.cc;
+		path = "/Users/gm/dev/kismac-kismet/kismet-devel/packetsource_darwin.cc";
+		sourceTree = "<absolute>";
+	};
+	87C2CD601106EB46009E343A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87C2CD491106EA40009E343A /* packetsource_darwin.cc */;
+		name = "packetsource_darwin.cc: 224";
+		rLen = 37;
+		rLoc = 6328;
+		rType = 0;
+		vrLen = 1096;
+		vrLoc = 3;
+	};
+	87C2CD811106F050009E343A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 87320F831106BD7D00F1CD07 /* USBJack.h */;
+		name = "USBJack.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* rtl8187tuntap */ = {
+		activeExec = 0;
+		executables = (
+			87320F601106BD1400F1CD07 /* rtl8187tuntap */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* rtl8187tuntap.1 */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.man;
+		name = rtl8187tuntap.1;
+		path = "/Users/gm/dev/kismac-kismet/rtl8187tuntap/rtl8187tuntap.1";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {688, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1616}";
+		};
+	};
+}
