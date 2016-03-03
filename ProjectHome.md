@@ -1,0 +1,1 @@
+A userspace driver stack based on KisMac's USB wireless drivers, for the purposes of use with Kismet and other applications.
